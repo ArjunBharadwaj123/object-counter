@@ -45,8 +45,7 @@ Move `yolov8n.pt` into the `/models` directory.
 
 ## ▶️ Running the Project
 
-cd src
-python main.py
+python -m src.main
 
 
 **Controls**
